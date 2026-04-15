@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> ·
-  <a href="https://your-portfolio-link.com">Portfolio</a> ·
-  Sri Lanka
+  <a href="https://your-portfolio-link.com">Portfolio</a> 
 </p>
 
 ---
