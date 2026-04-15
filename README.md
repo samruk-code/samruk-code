@@ -1,131 +1,46 @@
 <h1 align="center">Mohamad Samruk</h1>
 
 <p align="center">
-  <strong>Applied Machine Learning Scientist · Data Scientist · AI Engineer</strong><br/>
-  LLMs · RAG · Agentic Systems · MLOps
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> ·
-  <a href="https://your-portfolio-link.com">Portfolio</a> 
+  <strong>ML Scientist · Data Scientist · AI Engineer</strong><br/>
+  LLMs · RAG · Agentic Systems · MLOps · Computer Vision<br/><br/>
+  <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> · <a href="https://your-portfolio-link.com">Portfolio</a> 
 </p>
 
 ---
 
-## About
-
-I'm an end-to-end Data Scientist and AI Engineer with a strong foundation in Computer Science and Business. I translate complex problems into data-driven solutions — from classical ML models to production-ready agentic AI systems.
-
-Over the last three years I've built across the full stack: tabular ML, computer vision, NLP, LLM fine-tuning, RAG pipelines, and multi-agent orchestration. I learn by building, and every certification I earn has a repo to show for it.
+End-to-end Data Scientist and AI Engineer building across the full stack — from classical ML to production agentic AI systems. I learn by building, and every cert has a repo to show for it.
 
 ---
 
-## Skills & Tools
+## Skills
 
-**Languages & Core**
-`Python` `SQL` `Bash`
-
-**Machine Learning**
-`Scikit-Learn` `XGBoost` `AutoGluon` `Feature Engineering` `Classical ML` `Ensemble Methods`
-
-**Deep Learning & Computer Vision**
-`PyTorch` `TorchVision` `CNN` `Transfer Learning` `ResNet` `VGG`
-
-**NLP & LLMs**
-`Transformers` `Fine-Tuning (SFT/DPO)` `RLHF` `Generative AI` `DeepLearning.AI stack`
-
-**Agentic AI & RAG**
-`CrewAI` `LangChain` `LangGraph` `RAG Pipelines` `Vector Databases` `Prompt Engineering` `Embeddings`
-
-**MLOps & Cloud**
-`AWS SageMaker` `AWS Lambda` `Step Functions` `Amazon S3` `Docker` `Model Monitoring`
-
-**Data & Analytics**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Tableau` `SQL` `EDA`
+`Python` `SQL` `PyTorch` `Scikit-Learn` `AutoGluon` `Transformers` `Fine-Tuning (SFT/DPO/RLHF)`
+`CrewAI` `LangChain` `LangGraph` `RAG` `Vector Databases` `Prompt Engineering`
+`AWS SageMaker` `Lambda` `Step Functions` `S3` `Docker` `Pandas` `NumPy`
 
 ---
 
 ## Flagship Projects
 
-### 🤖 Multi-Agent Systems with CrewAI
-Designed, developed, and deployed multi-agent workflows using CrewAI — orchestrating agents with defined roles, tools, and task pipelines to solve complex, multi-step problems autonomously.
-`CrewAI` `LLMs` `Agentic AI` `Python`
-→ [Repo](https://github.com/samruk-code/Design-Develop-and-Deploy-Multi-Agent-Systems-with-CrewAI)
-
----
-
-### 🔍 Retrieval-Augmented Generation (RAG)
-Built end-to-end RAG pipelines integrating vector databases, document embeddings, and LLM inference for context-aware question answering.
-`RAG` `Vector DB` `Embeddings` `LangChain` `Python`
-→ [Repo](https://github.com/samruk-code/Retrieval-Augmented-Generation-RAG-)
-
----
-
-### 🧬 LLM Fine-Tuning & Reinforcement Learning (Post-Training)
-Hands-on implementation of SFT, RLHF, and DPO techniques to adapt pre-trained language models to specific tasks and alignment objectives.
-`Fine-Tuning` `RLHF` `DPO` `SFT` `Transformers`
-→ [Repo](https://github.com/samruk-code/Fine-tuning-and-RL-for-LLMs-Intro-to-post-training)
-
----
-
-### 💬 SentimentScope — Transformer from Scratch
-Custom 8-block Transformer (multi-head attention, residual connections, mean pooling) trained on 50,000 IMDb reviews with zero pretrained weights. Achieved **>75% accuracy** on held-out test set.
-`PyTorch` `NLP` `Transformers` `Custom Architecture`
-→ [Repo](https://github.com/samruk-code/Sentiment-Scope-Project)
-
----
-
-### ☁️ Scones Unlimited — ML Pipeline on AWS
-End-to-end image classification pipeline on AWS: ETL to S3, ResNet-152 trained on SageMaker, Lambda functions chained via Step Functions, SageMaker Model Monitor for drift detection.
-`AWS` `SageMaker` `Lambda` `Step Functions` `MLOps` `Computer Vision`
-→ [Repo](https://github.com/samruk-code/scones-unlimited-cnn-classifier-project)
-
----
-
-### 🖼️ Landmark Classification & Tagging
-Deep learning pipeline to identify landmarks in photos — custom CNN from scratch + fine-tuned ResNet-18. Deployable as a TorchScript Predictor on mobile and server environments.
-`PyTorch` `CNN` `Transfer Learning` `ResNet-18`
-→ [Repo](https://github.com/samruk-code/landmark-classification-tagging)
-
----
-
-### 🐶 Image Classification — City Dog Show
-Benchmarked VGG, ResNet, and AlexNet for accuracy vs. runtime trade-offs on a real-world dog classification pipeline.
-`PyTorch` `TorchVision` `CNN` `Model Benchmarking`
-→ [Repo](https://github.com/samruk-code/image-classification-for-city-dog-show)
-
----
-
-### 🚲 Bike Sharing Demand — AutoGluon (Kaggle)
-Predicted hourly bike demand using AutoGluon's TabularPredictor. Feature engineering reduced RMSE from 1.400 → **0.484** — a 65%+ improvement.
-`AutoGluon` `Feature Engineering` `Tabular ML` `Kaggle`
-→ [Repo](https://github.com/samruk-code/bike-sharing-demand-with-autogluon)
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [Multi-Agent Systems with CrewAI](https://github.com/samruk-code/Design-Develop-and-Deploy-Multi-Agent-Systems-with-CrewAI) | Autonomous multi-agent workflows with defined roles, tools & task pipelines | CrewAI · LLMs |
+| [RAG Pipeline](https://github.com/samruk-code/Retrieval-Augmented-Generation-RAG-) | End-to-end retrieval-augmented generation for context-aware Q&A | LangChain · Vector DB |
+| [LLM Fine-Tuning & RLHF](https://github.com/samruk-code/Fine-tuning-and-RL-for-LLMs-Intro-to-post-training) | SFT, DPO & RLHF post-training techniques on pre-trained LLMs | Transformers · PyTorch |
+| [SentimentScope](https://github.com/samruk-code/Sentiment-Scope-Project) | Custom Transformer from scratch on 50K IMDb reviews — **>75% accuracy** | PyTorch · NLP |
+| [Scones Unlimited](https://github.com/samruk-code/scones-unlimited-cnn-classifier-project) | Full MLOps pipeline on AWS: S3 · SageMaker · Lambda · Step Functions | AWS · MLOps |
+| [Bike Sharing Demand](https://github.com/samruk-code/bike-sharing-demand-with-autogluon) | Kaggle competition — RMSE from 1.40 → **0.48** via feature engineering | AutoGluon · Kaggle |
 
 ---
 
 ## What I'm Looking For
 
-I'm open to opportunities where I can contribute meaningfully and grow at the intersection of ML research and real-world deployment.
+**Roles:** ML Engineer · Data Scientist · AI/LLM Engineer · MLOps Engineer
 
-**Roles that fit:**
-- Machine Learning Engineer
-- Data Scientist (ML-focused)
-- AI / LLM Engineer
-- MLOps Engineer
-
-**Environments I thrive in:**
-- Teams building production AI/ML systems with real-world impact
-- Startups or product companies where ML is core to the product
-- Remote-friendly or async-first culture
-
-**What matters to me:**
-- Hard problems worth solving
-- Clear ownership and room to build
-- A team I can learn from
+Looking to join a team building real-world AI/ML products where I can own problems end-to-end and keep growing fast. Open to **remote opportunities worldwide**.
 
 ---
 
 <p align="center">
-  <em>Open to remote opportunities worldwide.</em><br/>
-  <a href="https://www.linkedin.com/in/mohamad-samruk">Let's connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mohamad-samruk">Let's connect →</a>
 </p>
