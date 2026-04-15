@@ -1,7 +1,7 @@
 <h1 align="center">Mohamad Samruk</h1>
 
 <p align="center">
-  <strong>ML Scientist · Data Scientist · AI Engineer</strong><br/>
+  <strong>ML Engineer · Data Scientist · AI Engineer</strong><br/>
   LLMs · RAG · Agentic Systems · MLOps · Computer Vision<br/><br/>
   <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> · <a href="https://your-portfolio-link.com">Portfolio</a> 
 </p>
