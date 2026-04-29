@@ -8,7 +8,7 @@
 
 ---
 
-End-to-end Data Scientist and AI Engineer building across the full stack — from classical ML to production agentic AI systems. I learn by building, and every cert has a repo to show for it.
+I build production-ready AI systems — from training transformers from scratch and fine-tuning LLMs with RLHF, to deploying multi-agent pipelines and end-to-end MLOps on AWS. My work spans the full stack: data ingestion, model training, cloud deployment, and serving.
 
 ---
 
