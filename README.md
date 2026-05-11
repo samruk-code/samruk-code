@@ -8,7 +8,7 @@
 
 ---
 
-I build production-ready AI systems — from training transformers from scratch and fine-tuning LLMs with RLHF, to deploying multi-agent pipelines and end-to-end MLOps on AWS. My work spans the full stack: data ingestion, model training, cloud deployment, and serving.
+I build production-grade AI systems — from RAG pipelines and multi-agent workflows to fine-tuned LLMs and serverless MLOps on AWS. My work spans the full stack: transformer architectures, agentic systems with CrewAI and LangGraph, post-training with SFT, RLHF, and DPO, and data pipelines with Airflow and Kafka. I focus on systems that hold up beyond the notebook — deployable, monitored, and production-ready.
 
 ---
 
@@ -25,7 +25,7 @@ I build production-ready AI systems — from training transformers from scratch 
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | [Multi-Agent Systems with CrewAI](https://github.com/samruk-code/Design-Develop-and-Deploy-Multi-Agent-Systems-with-CrewAI) | Autonomous multi-agent workflows with defined roles, tools & task pipelines | CrewAI · LLMs |
-| [RAG Pipeline](https://github.com/samruk-code/Retrieval-Augmented-Generation-RAG-) | End-to-end retrieval-augmented generation for context-aware Q&A | LangChain · Vector DB |
+| [RAG Pipeline](https://github.com/samruk-code/Retrieval_Augmented_Generation_RAG) | End-to-end retrieval-augmented generation for context-aware Q&A | LangChain · Vector DB |
 | [LLM Fine-Tuning & RLHF](https://github.com/samruk-code/Fine-tuning-and-RL-for-LLMs-Intro-to-post-training) | SFT, DPO & RLHF post-training techniques on pre-trained LLMs | Transformers · PyTorch |
 | [SentimentScope](https://github.com/samruk-code/Sentiment-Scope-Project) | Custom Transformer from scratch on 50K IMDb reviews — **>75% accuracy** | PyTorch · NLP |
 | [Scones Unlimited](https://github.com/samruk-code/scones-unlimited-cnn-classifier-project) | Full MLOps pipeline on AWS: S3 · SageMaker · Lambda · Step Functions | AWS · MLOps |
