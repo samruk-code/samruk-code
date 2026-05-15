@@ -3,7 +3,7 @@
 <p align="center">
   <strong>ML Engineer · Data Scientist · AI Engineer</strong><br/>
   LLMs · RAG · Agentic Systems · MLOps · Computer Vision<br/><br/>
-  <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> · <a href="https://your-portfolio-link.com">Portfolio</a> 
+  <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> · <a href="https://d1gkrgeygyaobj.cloudfront.net/">Portfolio</a> 
 </p>
 
 ---
