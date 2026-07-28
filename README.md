@@ -1,22 +1,22 @@
 <h1 align="center">Mohamad Samruk</h1>
 
 <p align="center">
-  <strong>ML Engineer · Data Scientist · AI Engineer</strong><br/>
-  LLMs · RAG · Agentic Systems · MLOps · Computer Vision<br/><br/>
-  <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> · <a href="https://d1gkrgeygyaobj.cloudfront.net/">Portfolio</a> 
+  <strong>AI Engineer · ML Engineer · Data Scientist</strong><br/>
+  Agentic Systems · RAG · LLM Fine-Tuning · MLOps · Computer Vision<br/><br/>
+  <a href="https://www.linkedin.com/in/mohamad-samruk">LinkedIn</a> · <a href="https://d1gkrgeygyaobj.cloudfront.net/">Portfolio</a>
 </p>
 
 ---
 
-I build production-grade AI systems — from RAG pipelines and multi-agent workflows to fine-tuned LLMs and serverless MLOps on AWS. My work spans the full stack: transformer architectures, agentic systems with CrewAI and LangGraph, post-training with SFT, RLHF, and DPO, and data pipelines with Airflow and Kafka. I focus on systems that hold up beyond the notebook — deployable, monitored, and production-ready.
+I build AI systems that go beyond the notebook — agentic pipelines with real guardrails, RAG systems with evaluation harnesses, and fine-tuned LLMs deployed on production-grade infrastructure. My work spans natural-language-to-SQL agents grounded in a semantic layer, multi-agent orchestration with LangGraph and CrewAI, post-training with SFT/RLHF/DPO, and serverless MLOps on AWS. I care about the parts that make a system trustworthy in production: governance enforced structurally (not just prompted for), critic/validation loops, observability, and cost-aware model routing.
 
 ---
 
 ## Skills
 
-`Python` `SQL` `PyTorch` `Scikit-Learn` `AutoGluon` `Transformers` `Fine-Tuning (SFT/DPO/RLHF)`
-`CrewAI` `LangChain` `LangGraph` `RAG` `Vector Databases` `Prompt Engineering`
-`AWS SageMaker` `Lambda` `Step Functions` `S3` `Docker` `Pandas` `NumPy`
+`Python` `SQL` `PyTorch` `Scikit-Learn` `Transformers` `Fine-Tuning (SFT/DPO/RLHF/GRPO)`
+`LangGraph` `LangChain` `CrewAI` `RAG` `Vector Databases` `DuckDB` `Prompt Engineering` `Guardrails`
+`AWS SageMaker` `Lambda` `Step Functions` `S3` `Model Monitor` `Docker` `Pandas` `NumPy` `AutoGluon`
 
 ---
 
@@ -24,18 +24,18 @@ I build production-grade AI systems — from RAG pipelines and multi-agent workf
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [Multi-Agent Systems with CrewAI](https://github.com/samruk-code/Design-Develop-and-Deploy-Multi-Agent-Systems-with-CrewAI) | Autonomous multi-agent workflows with defined roles, tools & task pipelines | CrewAI · LLMs |
-| [RAG Pipeline](https://github.com/samruk-code/Retrieval_Augmented_Generation_RAG) | End-to-end retrieval-augmented generation for context-aware Q&A | LangChain · Vector DB |
-| [LLM Fine-Tuning & RLHF](https://github.com/samruk-code/Fine-tuning-and-RL-for-LLMs-Intro-to-post-training) | SFT, DPO & RLHF post-training techniques on pre-trained LLMs | Transformers · PyTorch |
-| [SentimentScope](https://github.com/samruk-code/Sentiment-Scope-Project) | Custom Transformer from scratch on 50K IMDb reviews — **>75% accuracy** | PyTorch · NLP |
-| [Scones Unlimited](https://github.com/samruk-code/scones-unlimited-cnn-classifier-project) | Full MLOps pipeline on AWS: S3 · SageMaker · Lambda · Step Functions | AWS · MLOps |
-| [Bike Sharing Demand](https://github.com/samruk-code/bike-sharing-demand-with-autogluon) | Kaggle competition — RMSE from 1.40 → **0.48** via feature engineering | AutoGluon · Kaggle |
+| [Data Analyst Agent System](https://github.com/samruk-code/Data_Analyst_Agent_System) | NL-to-SQL agent grounded in a semantic layer, with structural row-level security/PII masking and critic validation | LangGraph · LangChain · DuckDB |
+| [Customer Support Agent System](https://github.com/samruk-code/Customer-Support-Agent-System) | Multi-stage support pipeline — intent routing, LLM planner, policy engine, guardrails, tiered memory | LangGraph · LangChain · RAG |
+| [Multi-Agent Code Review (CrewAI)](https://github.com/samruk-code/Design-Develop-and-Deploy-Multi-Agent-Systems-with-CrewAI) | PR-review crew (Dev/Security/Tech Lead) with real-time OWASP lookups and an LLM-routed CrewAI Flow | CrewAI · Pydantic |
+| [RAG Pipeline](https://github.com/samruk-code/Retrieval_Augmented_Generation_RAG) | Hybrid retrieval (BM25 + semantic + RRF) with Weaviate, reranking, and full OpenTelemetry observability | LangChain · Weaviate · Flask |
+| [LLM Fine-Tuning & RL](https://github.com/samruk-code/Fine-tuning-and-RL-for-LLMs-Intro-to-Post-Training) | SFT/RL on GSM8K (36.7%→86.7%), GRPO with custom rewards, error-analysis pipeline to 98.7% accuracy | Transformers · PyTorch |
+| [Scones Unlimited](https://github.com/samruk-code/scones-unlimited-cnn-classifier-project) | End-to-end serverless MLOps: ResNet-152 on SageMaker, Lambda, Step Functions, drift monitoring | AWS · MLOps |
 
 ---
 
 ## What I'm Looking For
 
-**Roles:** ML Engineer · Data Scientist · AI/LLM Engineer · MLOps Engineer
+**Roles:** AI Engineer · ML Engineer · Data Scientist · MLOps Engineer
 
 Looking to join a team building real-world AI/ML products where I can own problems end-to-end and keep growing fast. Open to **remote opportunities worldwide**.
 
