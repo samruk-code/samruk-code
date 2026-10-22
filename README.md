@@ -24,8 +24,6 @@ I build AI systems that go beyond the notebook — agentic pipelines with real g
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [Data Analyst Agent System](https://github.com/samruk-code/Data_Analyst_Agent_System) | NL-to-SQL agent grounded in a semantic layer, with structural row-level security/PII masking and critic validation | LangGraph · LangChain · DuckDB |
-| [Customer Support Agent System](https://github.com/samruk-code/Customer-Support-Agent-System) | Multi-stage support pipeline — intent routing, LLM planner, policy engine, guardrails, tiered memory | LangGraph · LangChain · RAG |
 | [Multi-Agent Code Review (CrewAI)](https://github.com/samruk-code/Design-Develop-and-Deploy-Multi-Agent-Systems-with-CrewAI) | PR-review crew (Dev/Security/Tech Lead) with real-time OWASP lookups and an LLM-routed CrewAI Flow | CrewAI · Pydantic |
 | [RAG Pipeline](https://github.com/samruk-code/Retrieval_Augmented_Generation_RAG) | Hybrid retrieval (BM25 + semantic + RRF) with Weaviate, reranking, and full OpenTelemetry observability | LangChain · Weaviate · Flask |
 | [LLM Fine-Tuning & RL](https://github.com/samruk-code/Fine-tuning-and-RL-for-LLMs-Intro-to-Post-Training) | SFT/RL on GSM8K (36.7%→86.7%), GRPO with custom rewards, error-analysis pipeline to 98.7% accuracy | Transformers · PyTorch |
